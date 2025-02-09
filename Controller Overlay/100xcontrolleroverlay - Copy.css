@@ -194,6 +194,12 @@ background-position: 0 -70px;
     top: 308px;
     left: 228px;
 }
+.ds4 .stick {
+    position: absolute;
+    background: url(https://imgur.com/6F1ZfU7.png);
+    height: 94px;
+    width: 94px;
+}
 
 .ds4 .stick.pressed.left {
     background-position-x: -96px;
