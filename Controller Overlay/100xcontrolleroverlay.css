@@ -61,13 +61,6 @@ background-position: 0 -70px;
     opacity: 0;
 }
 
-.ds4 .button {
-    position: absolute;
-    width: 55px;
-    height: 55px;
-    background: url(https://imgur.com/DTZVgtX.png);
-}
-
 .ds4 .face {
     background: url(https://imgur.com/IaK7bsj.png);
     position: absolute;
